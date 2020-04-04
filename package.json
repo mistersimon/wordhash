@@ -1,0 +1,26 @@
+{
+  "name": "wordhash",
+  "version": "1.0.0",
+  "description": "Hash into human friend words",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "uuid",
+    "human",
+    "words",
+    "id",
+    "hash"
+  ],
+  "author": "Simon Lee",
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mistersimon/wordhash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mistersimon/wordhash/issues"
+  },
+  "homepage": "https://github.com/mistersimon/wordhash#readme"
+}
